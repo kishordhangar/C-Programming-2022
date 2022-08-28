@@ -15,7 +15,6 @@ printf("\nFirst for loop");
     }
     
 
-
 printf("\n*********   2   ********");
 
    printf("\nsecond for loop");
@@ -51,8 +50,6 @@ printf("\n\n*********   3   ********");
        
     }
     
-    
-
 
 printf("\n\n*********   4   ********");
 printf("\nFourth for loop");
