@@ -1,19 +1,12 @@
-
-
-//4 Write a program for multiplication of two numbers .
-
+//To print the Multiplication of two int values 
 #include<stdio.h>
-int main()
-
+int main ()
 {
- 
- int a=10;
- int b=20;
- int multiplication = a*b;
-
- printf("\n\nMultiplication of two numbers =%d\n\n",multiplication);
-
-
-
-    return 0;
+  //a,b,c are the identifiers of int datataypes(that means local variable declaration)
+int a=4;
+int b= 6;
+int c;
+a*b= c;
+printf("Multiplication of two number's=%d",c);
+return 0;
 }

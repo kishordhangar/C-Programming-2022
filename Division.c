@@ -1,4 +1,4 @@
-//To print the Substraction of two int values 
+//To print the Division of two int values 
 #include<stdio.h>
 int main ()
 {
@@ -6,7 +6,7 @@ int main ()
 int a=4;
 int b= 6;
 int c;
-a-b= c;
-printf("Substraction of two number's=%d",c);
+a/b= c;
+printf("Division of two number's=%d",c);
 return 0;
 }

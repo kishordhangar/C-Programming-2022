@@ -11,7 +11,7 @@ int main()
     return 0;
 }
 //user defied function
-void kishor()
+void priyanka()
 {
     
 }

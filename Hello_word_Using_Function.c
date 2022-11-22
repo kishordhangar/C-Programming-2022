@@ -1,21 +1,14 @@
 //Header file in c(its an compulsory)
-
 #include<stdio.h>
-
 //entry point function
 int main()
 {
-
     //call the function and  function declaration also
-    void Kishor();
- 
-        //Kishor();
-
+    void priyanka();
+        //();
     return 0;
 }
-void Kishor()
+void priyanka()
 {
-
-printf("This is using function");
-
+printf("\n\n\tThis is using function\n\n");
 }
